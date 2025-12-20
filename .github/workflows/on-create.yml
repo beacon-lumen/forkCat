@@ -59,6 +59,7 @@ jobs:
           python src/cli.py show
       
       - name: Create welcome issue
+        continue-on-error: true  # Forked repos may have issues disabled
         uses: actions/github-script@v7
         with:
           script: |
