@@ -10,6 +10,7 @@ on:
 
 permissions:
   contents: write
+  issues: write
 
 jobs:
   initialize_child:
@@ -63,28 +64,24 @@ jobs:
           script: |
             const body = `## 🐵 Your Monkey is Born!
             
-            Congratulations! You've successfully forked a ForkMonkey.
+            Congratulations! You've created your own ForkMonkey.
             
             ### What happens now?
             
-            1. **Daily Evolution**: Your monkey will evolve automatically every day at midnight UTC
-            2. **AI-Powered**: Set the ANTHROPIC_API_KEY secret to enable AI-powered evolution
-            3. **Watch it Grow**: Check back daily to see how your monkey changes
+            1. **Daily Evolution**: Your monkey evolves automatically every day at midnight UTC
+            2. **GitHub Pages**: View your monkey at \`https://${context.repo.owner}.github.io/${context.repo.repo}/\`
+            3. **AI-Powered**: Add ANTHROPIC_API_KEY secret for intelligent evolution
             
-            ### Next Steps
+            ### Setup (Optional)
             
             1. Go to **Settings → Secrets → Actions**
-            2. Add a new secret: ANTHROPIC_API_KEY
-            3. Get your API key from https://console.anthropic.com
-            4. Enable GitHub Actions if not already enabled
+            2. Add secret: \`ANTHROPIC_API_KEY\` (from https://console.anthropic.com)
             
-            ### Your Monkey Traits
+            > **📢 Keep this repo PUBLIC** for GitHub Pages to work and to share your monkey with the world!
             
-            Check the README to see your monkey's current appearance and stats!
+            ### Your Monkey
             
-            ### Questions?
-            
-            See the [README](README.md) for more information.
+            Check the README to see your monkey's current appearance and traits!
             
             Happy monkey growing! 🌱`;
             
@@ -94,3 +91,4 @@ jobs:
               title: '🎉 Welcome to ForkMonkey!',
               body: body
             });
+
