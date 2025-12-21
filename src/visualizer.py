@@ -4,7 +4,7 @@ ForkMonkey Visualizer - Cat Edition
 
 import math
 from typing import Dict, List
-from src.genetics import MonkeyDNA, TraitCategory, Rarity
+from src.genetics import CatDNA, TraitCategory, Rarity
 
 class MonkeyVisualizer:
     """Generates generic SVG cat art from DNA"""
@@ -30,7 +30,7 @@ class MonkeyVisualizer:
     }
 
     @classmethod
-    def generate_svg(cls, dna: MonkeyDNA, width: int = 400, height: int = 400) -> str:
+    def generate_svg(cls, dna: CatDNA, width: int = 400, height: int = 400) -> str:
         traits = {
             "body_color": dna.traits[TraitCategory.BODY_COLOR].value,
             "expression": dna.traits[TraitCategory.FACE_EXPRESSION].value,
@@ -112,7 +112,7 @@ class MonkeyVisualizer:
         return "\n".join(parts)
 
     @classmethod
-    def generate_thumbnail(cls, dna: MonkeyDNA, size: int = 100) -> str:
+    def generate_thumbnail(cls, dna: CatDNA, size: int = 100) -> str:
         return cls.generate_svg(dna, width=size, height=size)
 
 def main():
