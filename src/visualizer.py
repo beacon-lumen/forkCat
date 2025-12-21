@@ -6,7 +6,7 @@ import math
 from typing import Dict, List
 from src.genetics import CatDNA, TraitCategory, Rarity
 
-class MonkeyVisualizer:
+class CatVisualizer:
     """Generates generic SVG cat art from DNA"""
 
     BODY_COLORS = {
