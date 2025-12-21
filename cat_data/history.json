@@ -495,6 +495,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2025-12-21T00:40:58.038782",
+      "dna_hash": "b8525cba7ead8578",
+      "generation": 1,
+      "mutation_count": 0,
+      "rarity_score": 10.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "sleepy",
+        "accessory": "bandana",
+        "pattern": "solid",
+        "background": "sunset",
+        "special": "none"
+      },
+      "story": "\ud83c\udf89 Your cat was born!"
     }
   ]
 }
