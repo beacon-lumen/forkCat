@@ -1471,6 +1471,22 @@
         "special": "none"
       },
       "story": "Your cat evolved! Changes: face_expression: sleepy \u2192 neutral, accessory: diamond_chain \u2192 golden_crown"
+    },
+    {
+      "timestamp": "2026-02-18T01:46:18.357003",
+      "dna_hash": "3c1efa6cd5cf93c3",
+      "generation": 1,
+      "mutation_count": 6,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "neutral",
+        "accessory": "golden_crown",
+        "pattern": "swirls",
+        "background": "forest",
+        "special": "shadow"
+      },
+      "story": "Your cat evolved! Changes: special: none \u2192 shadow"
     }
   ]
 }
