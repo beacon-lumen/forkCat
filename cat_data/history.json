@@ -2031,6 +2031,22 @@
         "special": "sparkles"
       },
       "story": "Your cat evolved! Changes: face_expression: neutral \u2192 sleepy"
+    },
+    {
+      "timestamp": "2026-03-24T01:16:08.392314",
+      "dna_hash": "14220aec5a3e8852",
+      "generation": 1,
+      "mutation_count": 23,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "sleepy",
+        "accessory": "laser_eyes",
+        "pattern": "solid",
+        "background": "forest",
+        "special": "glow"
+      },
+      "story": "Your cat evolved! Changes: special: sparkles \u2192 glow"
     }
   ]
 }
