@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "46327c0ffcf7b4a0",
-  "mutation_count": 28,
+  "dna_hash": "c42de2f65025112f",
+  "mutation_count": 30,
   "birth_timestamp": 808311,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "374db983"
     },
     "accessory": {
-      "value": "wizard_hat",
+      "value": "horns",
       "rarity": "rare",
-      "gene_sequence": "0feb35ef"
+      "gene_sequence": "f9a6847e"
     },
     "pattern": {
       "value": "stripes",
@@ -26,9 +26,9 @@
       "gene_sequence": "49a1b947"
     },
     "background": {
-      "value": "beach",
+      "value": "mountains",
       "rarity": "uncommon",
-      "gene_sequence": "95919cff"
+      "gene_sequence": "ec41435d"
     },
     "special": {
       "value": "shadow",
