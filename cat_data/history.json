@@ -2543,6 +2543,22 @@
         "special": "shadow"
       },
       "story": "Your cat rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-04-25T01:30:07.262870",
+      "dna_hash": "407e39c38343511e",
+      "generation": 1,
+      "mutation_count": 42,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "happy",
+        "accessory": "golden_crown",
+        "pattern": "solid",
+        "background": "volcano",
+        "special": "shadow"
+      },
+      "story": "Your cat evolved! Changes: face_expression: curious \u2192 happy"
     }
   ]
 }
