@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "407e39c38343511e",
-  "mutation_count": 42,
+  "dna_hash": "af6e7cf1d18dd073",
+  "mutation_count": 43,
   "birth_timestamp": 808311,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "84ed1537"
     },
     "accessory": {
-      "value": "golden_crown",
+      "value": "diamond_chain",
       "rarity": "legendary",
-      "gene_sequence": "c600024c"
+      "gene_sequence": "db9cd265"
     },
     "pattern": {
       "value": "solid",
