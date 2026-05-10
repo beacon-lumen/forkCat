@@ -2783,6 +2783,22 @@
         "special": "particles"
       },
       "story": "Your cat rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-05-10T02:04:27.765794",
+      "dna_hash": "47c289d37c889d5f",
+      "generation": 1,
+      "mutation_count": 51,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "curious",
+        "accessory": "sunglasses",
+        "pattern": "gradient",
+        "background": "volcano",
+        "special": "particles"
+      },
+      "story": "Your cat evolved! Changes: face_expression: happy \u2192 curious"
     }
   ]
 }
