@@ -2911,6 +2911,22 @@
         "special": "particles"
       },
       "story": "Your cat evolved! Changes: body_color: tan \u2192 brown"
+    },
+    {
+      "timestamp": "2026-05-18T02:32:11.006898",
+      "dna_hash": "f0a4fd7c0217dc57",
+      "generation": 1,
+      "mutation_count": 55,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "curious",
+        "accessory": "crown",
+        "pattern": "gradient",
+        "background": "volcano",
+        "special": "particles"
+      },
+      "story": "Your cat rested today. No visible changes."
     }
   ]
 }
