@@ -2975,6 +2975,22 @@
         "special": "particles"
       },
       "story": "Your cat rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-05-22T02:33:40.407455",
+      "dna_hash": "c6257f82d8941c38",
+      "generation": 1,
+      "mutation_count": 58,
+      "rarity_score": 25.0,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "sleepy",
+        "accessory": "crown",
+        "pattern": "solid",
+        "background": "volcano",
+        "special": "particles"
+      },
+      "story": "Your cat rested today. No visible changes."
     }
   ]
 }
