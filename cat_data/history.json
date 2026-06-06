@@ -3215,6 +3215,22 @@
         "special": "particles"
       },
       "story": "Your cat rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-06-06T02:14:50.930568",
+      "dna_hash": "23ceea367804d5f1",
+      "generation": 1,
+      "mutation_count": 65,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "sleepy",
+        "accessory": "bow",
+        "pattern": "swirls",
+        "background": "underwater",
+        "special": "shadow"
+      },
+      "story": "Your cat evolved! Changes: special: particles \u2192 shadow"
     }
   ]
 }
