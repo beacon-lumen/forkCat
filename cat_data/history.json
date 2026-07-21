@@ -3935,6 +3935,22 @@
         "special": "sparkles"
       },
       "story": "Your cat rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-21T01:50:13.049443",
+      "dna_hash": "de3ac53d46c466b0",
+      "generation": 1,
+      "mutation_count": 95,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "neutral",
+        "accessory": "bandana",
+        "pattern": "nebula",
+        "background": "forest",
+        "special": "sparkles"
+      },
+      "story": "Your cat evolved! Changes: accessory: none \u2192 bandana"
     }
   ]
 }
