@@ -1,8 +1,8 @@
 {
   "generation": 1,
   "parent_id": null,
-  "dna_hash": "32e90380c2ee12fb",
-  "mutation_count": 159,
+  "dna_hash": "1a8a75ef08282200",
+  "mutation_count": 160,
   "birth_timestamp": 808311,
   "traits": {
     "body_color": {
@@ -16,9 +16,9 @@
       "gene_sequence": "399185f3"
     },
     "accessory": {
-      "value": "sunglasses",
+      "value": "monocle",
       "rarity": "uncommon",
-      "gene_sequence": "128d27c9"
+      "gene_sequence": "4b7e2599"
     },
     "pattern": {
       "value": "cosmic_dust",
